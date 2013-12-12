@@ -1,11 +1,4 @@
 {"config": {
 	"upstreamUrl": "http://www.upstream.com/package",
- 	"downstreamUrl": "http://www.downstream.com/package",
-	"popup": {
-		"menuitem": [
-			{"value": "New", "onclick": "CreateNewDoc()"},
-			{"value": "Open", "onclick": "OpenDoc()"},
-			{"value": "Close", "onclick": "CloseDoc()"}
-		]
-	}
+ 	"downstreamUrl": "http://www.downstream.com/package"
 }}
