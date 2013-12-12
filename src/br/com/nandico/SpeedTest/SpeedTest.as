@@ -1,1 +1,1 @@
-﻿package br.com.nandico.SpeedTest  {		import flash.display.MovieClip;		public class SpeedTest extends MovieClip {		public function SpeedTest() {				trace( "Working." );		}	}	}
+﻿package br.com.nandico.SpeedTest  {		import flash.display.MovieClip;	import br.com.nandico.SpeedTest.ConfigLoader;		public class SpeedTest extends MovieClip {		public function SpeedTest() {				ConfigLoader.loadConfig();		}	}	}
