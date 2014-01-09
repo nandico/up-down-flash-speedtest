@@ -1,4 +1,12 @@
 {"config": {
-	"upstreamUrl": "http://www.upstream.com/package",
- 	"downstreamUrl": "http://www.downstream.com/package"
+	"upstreamUrl": [
+						"http://www.wacawacawaca.com/_files/mateus.jpg"
+					],
+ 	"downstreamPackages":[
+ 						"http://www.wacawacawaca.com/_files/mateus.jpg",
+ 						"http://www.wacawacawaca.com/_files/mateus.jpg",
+ 						"http://www.wacawacawaca.com/_files/mateus.jpg",
+ 						"http://www.wacawacawaca.com/_files/mateus.jpg",
+ 						"http://www.wacawacawaca.com/_files/mateus.jpg"
+ 					]
 }}
