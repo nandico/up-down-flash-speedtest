@@ -3,13 +3,11 @@
 						"http://www.wacawacawaca.com/_files/mateus.jpg"
 					],
  	"downstreamPackages":[
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg",
- 						"http://www.wacawacawaca.com/_files/mateus.jpg"
+ 						"http://www.wacawacawaca.com/_files/sample239.png",
+ 						"http://www.wacawacawaca.com/_files/sample505.png",
+ 						"http://www.wacawacawaca.com/_files/sample672.png",
+ 						"http://www.wacawacawaca.com/_files/sample861.png",
+ 						"http://www.wacawacawaca.com/_files/sample1268.png"
  					],
  	"downstreamMode":"sequential"
 }}
