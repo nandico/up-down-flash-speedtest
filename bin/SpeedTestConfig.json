@@ -1,7 +1,5 @@
 {"config": {
-	"upstreamUrl": [
-						"http://www.wacawacawaca.com/_files/mateus.jpg"
-					],
+	"downstreamTestEnabled":true,
  	"downstreamPackages":[
  						"http://www.wacawacawaca.com/_files/sample239.png",
  						"http://www.wacawacawaca.com/_files/sample505.png",
@@ -9,5 +7,22 @@
  						"http://www.wacawacawaca.com/_files/sample861.png",
  						"http://www.wacawacawaca.com/_files/sample1268.png"
  					],
- 	"downstreamMode":"sequential"
+ 	"downstreamMode":"sequential",
+ 	"downstreamAppendRandomParameterToUrl":true,
+	"upstreamTestEnabled":true,
+	"upstreamPackages":[
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":12800},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":25600},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":51200},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":102400},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":204800},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":307200},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":204800},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":102400},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":51200},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":25600},
+						{"url":"http://www.wacawacawaca.com/_preview/nandico/speedtest/SpeedTest.php", "bytes":12800}
+					],
+	"upstreamMode":"sequential",
+	"upstreamAppendRandomParameterToUrl":true
 }}
